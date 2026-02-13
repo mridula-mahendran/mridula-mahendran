@@ -80,6 +80,6 @@
 ## ⭐ Open to Opportunities
 
 <p align="center">
-  <code>Full-Stack Developer</code> · <code>Software Development Engineer</code> · <code>Cloud Engineer</code> · <code>DevOps Engineer</code> · <code>Site Reliability Engineer</code>code> · <code>Software Engineer in Test</code> · <code>QA Engineer</code>
+  <code>Full-Stack Developer</code> · <code>Software Development Engineer</code> · <code>Cloud Engineer</code> · <code>DevOps Engineer</code> · <code>Site Reliability Engineer</code> · <code>Software Engineer in Test</code> · <code>QA Engineer</code>
 </p>
 
