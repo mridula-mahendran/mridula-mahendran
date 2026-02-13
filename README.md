@@ -71,8 +71,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mridula-mahendran&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mridula-mahendran&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mridula-mahendran&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
